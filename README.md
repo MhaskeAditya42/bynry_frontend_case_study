@@ -60,6 +60,7 @@ This project is a web application developed using **React** with **Vite** that a
    ```bash
    git clone https://github.com/yourusername/profile-explorer.git
    cd bynry_frontend_case_study/frontend
+    cd bynry_frontend_case_study/backend
 
 2. Install Dependencies
 ```bash
@@ -73,9 +74,13 @@ npm install
 
 
 4.	Run the application:
-
+   For Frontend
 ```bash
-npm run dev
+npm run dev 
+```
+  For backend 
+``` bash
+npm start
 ```
 
 
